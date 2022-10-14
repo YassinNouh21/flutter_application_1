@@ -2,5 +2,5 @@
 import 'package:flutter/material.dart';
 
 class ColorManger {
-  static String color = "";
+  static String colorYassin = "";
 }
