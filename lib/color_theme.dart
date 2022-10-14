@@ -2,8 +2,8 @@
 import 'package:flutter/material.dart';
 
 class ColorManger {
-  static String colorFarah = "";
-  static String name = "farah";
+  static String ahmed = "";
+  static String name = "ahmed";
 }
 
 // farah2
