@@ -5,6 +5,3 @@ class ColorManger {
   static String ahmed = "";
   static String name = "ahmed";
 }
-
-// farah2
-
